@@ -1,0 +1,178 @@
+#
+# Tenga en cuenta que al modificar este archivo, el mínimo error en la sintáxis puede generar errores
+#
+
+sidebar:
+  about: False # NO MODIFICAR
+  education: False # NO MODIFICAR
+
+  # Profile information
+  name: Marcelo Ramirez Morfin # Nombre completo
+  tagline: Ruby on Rails Web Developer # React Native Mobile Developer ó Ruby on Rails Web Developer Según sea el caso
+  avatar: escudo.png # No modificar
+
+  # Actualiza tus datos de contacto
+  email: olecram127@hotmail.com
+  phone: 3121118469
+  website: # No agregar http://
+  linkedin: marcelo-ramirez-morfin-aab069222/
+  github: YxMARCKxY
+  gitlab:
+  bitbucket:
+  twitter: '@Marck_IOE'
+  stack-overflow: # Number/Username, e.g. 123456/alandoe
+  codewars:
+  goodreads: # Number-Username, e.g. 123456-alandoe
+
+  # Actualiza según los idiomas y nieles que tienes. Agrega o Elimina según sea necesario.
+  languages:
+    - idiom: English
+      level: Beginner # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
+
+    - idiom: Spanish
+      level: Native # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
+
+    # - idiom: German
+    #   level: Colloquial
+
+  # Registra aquí tus soft skills. Agrega o elimina según sea necesario
+  interests:
+    - item: Communication
+      link: # dejar en blanco
+
+    - item: Strategy
+      link: # dejar en blanco
+
+    - item: Optimism
+      link: # dejar en blanco
+
+# Registra aquí un resumen de tu perfil
+career-profile:
+  title: About Me # NO MODIFICAR
+  summary: |
+    Specialist in telecoms and programing web, I am 21 years old and a like a lot the programming web and the telecoms and everything that has to do with technology or the informatic en general, I enjoy when I create something from cero and the challenges that I have in the way help me to want to reach my goals with greater enthusiasm.
+
+# Registra aquí tus estudios. Agrega o elimina según sea necesario
+educationcomplete:
+  - degree: Ingeniero en telematica
+    university: Universidad de Colima
+    time: 2018 ene - 2022 aug
+    details: |
+
+  # - degree: PhD in Computer vision and Machine learning
+  #   university: Heidelberg University
+  #   time: 2015 - 2020
+  #   details: |
+  #     Unsupervised deep learning for automatic behavior analysis
+
+  #       - Unsupervised learning
+  #       - Representaion learning
+  #       - Automatic Behavior Analysis
+
+  # - degree: Internship (Master Thesis)
+  #   university: Tobii
+  #   time: 2014 - 2015
+  #   details: |
+  #     Master thesis topic Hand gesture classification by Deep learning using infrared camera 
+
+  #       - Deep learning
+  #       - Hand Gesture
+
+  # - degree: Bachelor Degree
+  #   university: Politecnico di Torino (Torino, Italy)
+  #   time: 2009 - 2012
+  #   details: |
+  #     Master degree in Computer Engineering
+
+# Registra aquí tu experiencia. Agrega o elimina según sea necesario
+experiences:
+    - role: Full-stack Developer
+      time: 2019 mar - 2019 dec
+      company: Freelance N/A
+      details: |
+        I created a web platform for create certificates and 
+        send to users that attend courses about trainings en
+        radio links.
+    - role: Web Developer
+      time: 2021 jan - 2021 nov
+      company: Educ, Universidad de Colima
+      details: |
+        I gived mi social service in this organization and 
+        I worked during this time given a solution to some 
+        bugs in the website and  updating some others
+        parts in the front-end, working in all moment 
+        with issuesof git.
+    - role: Full-stack Developer
+      time: 2021 aug - 2021 nov
+      company: N/A
+      details: |
+        I developed a device IoT for collect information 
+        of all type using cards RFID. Developed on a 
+        raspberry pi for my professional thesis.
+    - role: Web Developer
+      time: 2022 jan - 2022 feb
+      company: Codenado Mexico
+      details: |
+        During my professional practices I collaborated to
+        add a new section for a new platform within which
+        vacancies can be posted relat e d with the IT.
+
+# Registra aquí tus habilidades técnicas, para level utiliza:
+# 20% para Novice
+# 40% para Advanced beginner
+# 60% para Competent
+# 80% para Proficient
+# 100% para Expert
+skills:
+  title: Technical Skills # NO MODIFICAR
+
+  toolset:
+
+    - name: C/C++
+      level: 40%
+
+    - name: HTML
+      level: 100%
+
+    - name: PHP
+      level: 60%
+
+    - name: SQL
+      level: 80%
+    
+    - name: RUBY
+      level: 60%
+    
+    - name: RUBY ON RAILS
+      level: 70%
+
+    - name: CSS
+      level: 65%
+
+    - name: AJAX
+      level: 20%
+
+    - name: JQUERY
+      level: 65%
+
+    - name: EMBEDDED SYSTEMS
+      level: 40%
+
+    - name: NETWORKS OF COMPUTERS
+      level: 80%
+
+    - name: ROUTING
+      level: 60%
+
+    - name: SWITCHING
+      level: 60%
+
+    - name: WEB SERVERS
+      level: 40%
+
+    - name: EMBEDDED SYSTEMS
+      level: 40%
+
+# NO MODIFICAR
+footer: >
+  BrightCoders for a brighter future!
